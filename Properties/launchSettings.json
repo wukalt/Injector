@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Injector": {
+      "commandName": "Project",
+      "commandLineArgs": "-path C:\\Users\\wuKa\\Desktop\\BBBBBBB\\Program.cs -add"
+    }
+  }
+}
